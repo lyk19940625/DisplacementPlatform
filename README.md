@@ -1,6 +1,8 @@
 # DisplacementPlatform
  基于SpringMVC框架的校园二手商品置换平台
  
+<img align="right" src="https://github.com/lyk19940625/DisplacementPlatform/blob/master/picture.png"> 
+ 
 本系统满足以下功能：
 
 (1)注册和登录：用户注册自己的账户信息，信息中的手机号将默认作为收货时的联系方式。完成注册后用户可根据正确的用户名和密码进行登陆。
